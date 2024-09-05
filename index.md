@@ -6,3 +6,5 @@
 - [iOS 13](NOOTA13.mobileconfig)
 - [iOS 14](NOOTA14.mobileconfig)
 - [iOS 15](NOOTA15.mobileconfig)
+- [iOS 16](NOOTA16.mobileconfig)
+- [iOS 17](NOOTA17-20260821.mobileconfig)
